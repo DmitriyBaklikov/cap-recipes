@@ -38,7 +38,7 @@ Add here
 ```
 config/unicorn.rb
 .recap-lock
-/cap-recipes
+cap-recipes/*
 ```
 
 ### Update Gemfile
